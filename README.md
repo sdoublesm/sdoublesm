@@ -22,18 +22,16 @@ Here are some ideas to get you started:
   <p>🎯 <strong>Currently seeking a Master's thesis / internship opportunity in Cloud-Native technologies & Distributed Systems.</strong></p>
 </div>
 
----
 
-### 🚀 What I'm up to
+## 🚀 What I'm up to
 
 - 🏎️ **Working on:** Real-time telemetry for the Juno and IDRAzephyrus vehicles at **Team H2politO**, managing the full pipeline from data ingestion to visualization.
 - 🎓 **Studying:** Computing and Network Infrastructures (MSc) at **Politecnico di Torino** (focus on Kubernetes, Docker, Enterprise Networks).
 - 💻 **Previously:** Developed AI-driven customer service platforms and complex RESTful APIs as a Full Stack Intern at **Getapper**.
 - 🤝🏽 **Giving back:** Teaching Assistant for Python & Java labs, helping junior engineering students build their coding foundations.
 
----
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **Cloud & Infrastructure**
 <br>
@@ -58,9 +56,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 
----
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mirkotenore/" target="_blank">
